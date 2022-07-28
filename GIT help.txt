@@ -4,11 +4,12 @@
  git commit -m "комментарий"
  git push origin  - закинуть в гитхаб
  git pull origin  - обновление\забрать документ с гитхаба
- git branch - ветка/список веток
+ git branch - весь список веток и наша локация в этом списке
+ git branch tratata - создание новой ветки "tratatа"
  git checkout название_ветки - переключение веток
  git merge - слияние
  git branch -d - удаление ветки
-
+ git push --set-upstream origin название_ветки - это мы из vsc сразу пушим в гит хаб нашу ветку
 
 
 порядок
