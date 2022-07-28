@@ -9,8 +9,8 @@
  git checkout название_ветки - переключение веток
  git merge - слияние
  git branch -d - удаление ветки
+ 
  git push --set-upstream origin название_ветки - это мы из vsc сразу пушим в гит хаб нашу ветку
-
 
 порядок
 git clone https:// ..
