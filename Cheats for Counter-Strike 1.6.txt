@@ -6,3 +6,11 @@ SpinHack
 Aim Assist
 Edje Jump
 No visual recoil
+
+
+
+
+
+Anti-Aim
+NoFlash
+NoSmoke
