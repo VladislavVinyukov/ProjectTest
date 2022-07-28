@@ -6,3 +6,6 @@ SpinHack
 Aim Assist
 Edje Jump
 No visual recoil
+
+No spread
+FakeLag
