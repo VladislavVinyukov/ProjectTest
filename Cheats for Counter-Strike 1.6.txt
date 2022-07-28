@@ -2,3 +2,7 @@ Aimbot
 WallHack
 ESP
 SpinHack
+
+Aim Assist
+Edje Jump
+No visual recoil
