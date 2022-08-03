@@ -5,3 +5,5 @@ Merc
 Merc1
 Merc2
 Merc3
+Создал папку Merc jpg
+Перенес туда картинки (Merc,Merc1,Merc2,Merc3)
